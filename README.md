@@ -16,32 +16,22 @@
 		</tr>
 	</thead>
 </table>
-
-<thead>  <!-- VOU FAZER UM COMETARIO --->
-			<tr>
-			<th> ALUNO </th>
-			<th> DISCIPLINA </th>
-			<th> NOTA </th>
-			</tr>
-		</thead>
-        
-        <tbody>
-		<tr>
-			<td> Dylan </td>
-			<td> Portugues </td>
-			<td> 10 </td>
-		</tr>
-        </tbody>
-
-        <tfoot>
-		<tr>
-			<td> Daieny</td>
-			<td> Programação </td>
-			<td> 10	</tr>
-		</tr>
-        </tfoot>
+<tbody>
+	<tr>
+		<td> Dylan </td>
+		<td> Portugues </td>
+		<td> 10 </td>
+	</tr>
+</tbody>
+<tfoot>
+	<tr>
+		<td> Daieny</td>
+		<td> Programação </td>
+		<td> 10	</tr>
+	</tr>
+</tfoot>
 		
-	</table>
+</table>
 
 </body>
 
