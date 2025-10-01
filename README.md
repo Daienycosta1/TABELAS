@@ -15,7 +15,7 @@
 			<th>NOTA</th> 
 		</tr>
 	</thead>
-</table>
+
 <tbody>
 	<tr>
 		<td> Dylan </td>
@@ -29,8 +29,7 @@
 		<td> Programação </td>
 		<td> 10	</tr>
 	</tr>
-</tfoot>
-		
+</tfoot>	
 </table>
 
 </body>
