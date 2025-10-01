@@ -1,5 +1,4 @@
 <!DOCTYPE html> <html>
-
 <head> <meta charset ="utf-8">
 <title> MINHA AULA DE HTML </title>
 </head>
@@ -8,8 +7,17 @@
 
 <h2> Tabela com cabeçalho e rodapé </h2>
 
-	<table width="100" borde="1">
-		<thead> <!-- VOU FAZER UM COMETARIO --->
+<table>
+	<thead> 
+		<tr> 
+			<th>ALUNO</th> 
+			<th>DISCIPLINA</th> 
+			<th>NOTA</th> 
+		</tr>
+	</thead>
+</table>
+
+<thead>  <!-- VOU FAZER UM COMETARIO --->
 			<tr>
 			<th> ALUNO </th>
 			<th> DISCIPLINA </th>
